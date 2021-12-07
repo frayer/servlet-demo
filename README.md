@@ -7,6 +7,7 @@ A simple demonstration of traditional, Servlet based application development, wi
 This project has been built and tested against the following versions of software:
 
 [Apache Maven 3.x](https://maven.apache.org/install.html)
+
 [Apache Tomcat 9.x on Java 11](https://tomcat.apache.org/download-90.cgi)
 
 ## Overview
@@ -56,7 +57,7 @@ http://localhost:8080/servlet-demo/
 
 On a remote server, replace `localhost` with the IP address of the server:
 
-http://<ip-address>:8080/servlet-demo/
+http://&lt;ip-address&gt;:8080/servlet-demo/
 
 ## Re-deploy
 
